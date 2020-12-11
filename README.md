@@ -1,2 +1,2 @@
 # S.I.P.s
-Sage Improvement Protocols
+Sage Improvement Proposals
